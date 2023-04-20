@@ -1,0 +1,9 @@
+p{
+ margin-bottom: 4px;
+}
+
+.hover-effect:hover {
+    opacity: 0.5;
+    scale: 110%;
+    color:blue;
+}
